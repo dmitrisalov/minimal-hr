@@ -1,0 +1,46 @@
+.background {
+  viewport-fill: black;
+}
+
+#dayLabel {
+  x: 55%;
+  y: 20%;
+  fill: fb-mint;
+}
+
+#dateLabel {
+  x: 60%;
+  y: 20%;
+  fill: white;
+}
+
+#hourLabel {
+  x: 56%;
+  y: 65%;
+  fill: white;
+}
+
+#minuteLabel {
+  x: 59%;
+  y: 65%;
+  fill: white;
+  opacity: 0.7;
+}
+
+#periodLabel {
+  x: 60%;
+  y: 43%;
+  fill: fb-mint;
+}
+
+#heartRateImage {
+  x: 43%-18;
+  y: 90%-18;
+  fill: fb-mint;
+}
+
+#heartRateLabel {
+  x: 57%;
+  y: 90%;
+  fill: white;
+}

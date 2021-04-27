@@ -1,0 +1,32 @@
+<svg class="background">
+  <use id="dayLabel" href="#fitfont">
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+  </use>
+  <use id="dateLabel" href="#fitfont">
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+  </use>
+  <use id="hourLabel" href="#fitfont">
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+  </use>
+  <use id="minuteLabel" href="#fitfont">
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+  </use>
+  <use id="periodLabel" href="#fitfont">
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+  </use>
+  <use id="heartRateLabel" href="#fitfont">
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+    <use href="#fitfont-char"/>
+  </use>
+  <image id="heartRateImage" width="10%" height="10%" href="images/heart_rate_36px.png"/>
+</svg>

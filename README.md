@@ -7,4 +7,5 @@ Download at: https://gallery.fitbit.com/details/0c018cbe-1e70-453d-89ba-5d754517
 
 ## Resources
 Fitbit CLI Guide: https://dev.fitbit.com/build/guides/command-line-interface/
+
 Fitbit Device API Reference: https://dev.fitbit.com/build/reference/device-api/

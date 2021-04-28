@@ -9,7 +9,7 @@ import { FitFont } from 'fitfont';
 import * as util from "../common/utils";
 
 // Vars
-const WEEK_DAYS = ['MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT', 'SUN'];
+const WEEK_DAYS = ['SUN', 'MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT'];
 
 // Get handles for all the display elements
 const dayLabel = new FitFont({ id: 'dayLabel', font: 'fonts/Lekton_30', halign: 'end' });

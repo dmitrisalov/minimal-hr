@@ -4,32 +4,32 @@
 
 #dayLabel {
   x: 55%;
-  y: 20%;
+  y: 15%;
   fill: fb-mint;
 }
 
 #dateLabel {
   x: 60%;
-  y: 20%;
+  y: 15%;
   fill: white;
 }
 
 #hourLabel {
   x: 56%;
-  y: 65%;
+  y: 62%;
   fill: white;
 }
 
 #minuteLabel {
   x: 59%;
-  y: 65%;
+  y: 62%;
   fill: white;
   opacity: 0.7;
 }
 
 #periodLabel {
   x: 60%;
-  y: 43%;
+  y: 40%;
   fill: fb-mint;
 }
 
